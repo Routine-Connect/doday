@@ -22,12 +22,12 @@
 
 ## 📌 배포 주소
 
-| 서비스 | 주소 |
-|--------|------|
-| 백엔드 API | 배포 예정 |
-| 랜딩페이지 | 배포 예정 |
-| 공유페이지 | 배포 예정 |
-| Swagger | 배포 예정 |
+| 서비스 | 주소                                            |
+|--------|-----------------------------------------------|
+| 백엔드 API | https://api.doday-quokka.co.kr                |
+| 랜딩페이지 | http://www.doday-quokka.co.kr/                |
+| 공유페이지 | share.doday-quokka.co.kr                      |
+| Swagger | https://api.doday-quokka.co.kr/swagger-ui.html |
 
 ---
 
